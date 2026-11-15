@@ -211,11 +211,15 @@ will likely refine your design to make your implementation easier to use.
 
 > Please use this section to share your designs.
 
-- Component Design #1: <!-- TODO: give component a name then delete this comment -->
+- Component Design #1: Fantasy Basketball Tracker
   - **Description**:
-    - <!-- TODO: describe your component then delete this comment -->
+    - A component that tracks data about a certain player in fantasy 
+    points, turnovers, rebounds,assists, steals, etc. 
   - **Kernel Methods**:
-    - <!-- TODO: list kernel methods then delete this comment -->
+    -
+    -
+    - 
+    
   - **Secondary Methods**:
     - <!-- TODO: list secondary methods then delete this comment -->
   - **Additional Considerations** (*note*: "I don't know" is an acceptable
